@@ -32,13 +32,13 @@ Key questions answered:
 
 This page summarizes customer profile, spending behavior, income-spending relationship, age-wise analysis, gender distribution, and segment-wise distribution.
 
-![Executive Overview Dashboard](screenshots/executive-overview-dashboard.png)
+![Executive Overview Dashboard](./screenshots/executive-overview-dashboard.png)
 
 ### Segment Strategy Dashboard
 
 This page focuses on segment-level performance, customer share, segment priorities, and recommended marketing strategies.
 
-![Segment Strategy Dashboard](screenshots/segment-strategy-dashboard.png)
+![Segment Strategy Dashboard](./screenshots/segment-strategy-dashboard.png)
 
 ## Key Metrics
 
